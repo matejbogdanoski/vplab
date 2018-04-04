@@ -1,0 +1,10 @@
+C:\Users\Matej\source\repos\VPL2\VPL2\bin\Debug\VPL2.exe.config
+C:\Users\Matej\source\repos\VPL2\VPL2\bin\Debug\VPL2.exe
+C:\Users\Matej\source\repos\VPL2\VPL2\bin\Debug\VPL2.pdb
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.csprojResolveAssemblyReference.cache
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.Form1.resources
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.Properties.Resources.resources
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.csproj.GenerateResource.Cache
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.exe
+C:\Users\Matej\source\repos\VPL2\VPL2\obj\Debug\VPL2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\bin\Debug\VPLabTimer.exe.config
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\bin\Debug\VPLabTimer.exe
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\bin\Debug\VPLabTimer.pdb
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.csprojResolveAssemblyReference.cache
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.Form1.resources
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.Properties.Resources.resources
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.csproj.GenerateResource.Cache
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.exe
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.pdb
+C:\Users\Matej\source\repos\VPLabTimer\VPLabTimer\obj\Debug\VPLabTimer.Igrachi.resources

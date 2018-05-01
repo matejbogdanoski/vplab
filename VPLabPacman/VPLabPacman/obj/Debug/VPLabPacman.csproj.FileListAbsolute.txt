@@ -1,0 +1,10 @@
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\bin\Debug\VPLabPacman.exe.config
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\bin\Debug\VPLabPacman.exe
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\bin\Debug\VPLabPacman.pdb
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.csprojResolveAssemblyReference.cache
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.Form1.resources
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.Properties.Resources.resources
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.csproj.GenerateResource.Cache
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.exe
+C:\Users\Matej\source\repos\VPLabPacman\VPLabPacman\obj\Debug\VPLabPacman.pdb
